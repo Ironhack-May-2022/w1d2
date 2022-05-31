@@ -25,7 +25,7 @@ div {
 /* id selector */
 /* will select only one element */
 #mate-item {
-    text-decoration: line-through greenyellow;
+    text-decoration: line-through rgb(137, 47, 255);
 }
 
 
